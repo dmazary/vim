@@ -11,3 +11,4 @@ let g:zenburn_high_Contrast=1
 colorscheme zenburn
 set guifont=Source\ Code\ Pro\ Medium\ 10
 set laststatus=2
+set cursorline
